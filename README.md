@@ -38,8 +38,3 @@ I'm a backend-focused engineer with deep experience in building scalable, intell
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmetSaidAtes\&show_icons=true\&count_private=true\&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmetSaidAtes\&layout=compact)
