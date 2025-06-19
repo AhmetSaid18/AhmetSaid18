@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Ahmet Said Ateş
 
-🎯 Backend Developer • 🧠 AI/ML Specialist • 💡 .NET & Python Systems
+🎯 Backend Developer • 🤖 Intelligent System Builder • 🛠️ Python & .NET Solutions
 
 I'm a backend-focused engineer with deep experience in building scalable, intelligent systems using modern technologies like .NET, Python, and AI frameworks. I enjoy solving real-world problems with clean architecture and intelligent automation.
 
